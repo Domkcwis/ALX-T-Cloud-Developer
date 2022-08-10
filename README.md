@@ -1,6 +1,6 @@
 # ALX-T-Cloud-Developer
-Project 1 
-Project Submission
+#Project 1 Submission
+
 The cloud is perfect for hosting static websites that only include HTML, CSS, and JavaScript files that require no server-side processing. In this project, you will deploy a static website to AWS.
 
 First, I created an S3 bucket, configure the bucket for website hosting, and secure it using IAM policies.
