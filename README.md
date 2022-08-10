@@ -10,4 +10,5 @@ The cloud is perfect for hosting static websites that only include HTML, CSS, an
 * Lastly, I accessed my website in a browser using the unique S3 endpoint.
 
 | Additional Information |
+| ---------------------- |
 | I took screenshot of the results of each of my steps and submit the screenshots in a zipped folder, you can find the zipped folder within this ALX-T-Cloud-Developer directory. |
